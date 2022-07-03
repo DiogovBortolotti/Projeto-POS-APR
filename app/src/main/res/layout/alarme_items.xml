@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="?android:attr/selectableItemBackground"
+    android:layout_height="86dp">
+
+    <ImageView android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_centerVertical="true"
+        android:id="@+id/imagemmindesinger"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="4dp"
+        android:padding="4dp"
+        android:layout_marginBottom="4dp"
+        android:layout_toRightOf="@id/imagemmindesinger"
+        android:layout_toLeftOf="@+id/statusdesigner"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/titulodesigner"
+            android:layout_width="match_parent"
+            android:maxLines="2"
+            android:layout_height="wrap_content"
+            android:textColor="@color/CorSecundaria"
+            tools:text="Titulo"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/dataehoradesginer"
+            android:layout_width="match_parent"
+            android:singleLine="true"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/CorSecundaria"
+            tools:text="Data e Hora"/>
+
+        <TextView
+            android:id="@+id/repetirinfodesigner"
+            android:layout_width="match_parent"
+            android:singleLine="true"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/CorSecundaria"
+            tools:text="Repitir Info"/>
+
+    </LinearLayout>
+
+    <ImageView android:layout_width="wrap_content"
+        android:id="@+id/statusdesigner"
+        android:layout_alignParentRight="true"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:src="@drawable/notificacao_off"
+        android:layout_centerVertical="true"/>
+
+
+</RelativeLayout>

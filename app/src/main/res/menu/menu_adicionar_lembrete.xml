@@ -1,0 +1,15 @@
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/descartar_lembrete"
+          android:icon="@drawable/lixo"
+          android:title="@string/botao_descartar"
+          app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/salvar_lembrete"
+          android:icon="@drawable/certo"
+          android:title="@string/botao_salvar"
+          app:showAsAction="ifRoom" />
+</menu>

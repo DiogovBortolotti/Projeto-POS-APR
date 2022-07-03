@@ -1,0 +1,15 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+
+        <item name="colorPrimary">@color/CorSecundaria</item>
+        <item name="colorPrimaryDark">@color/CorSecundaria</item>
+        <item name="colorAccent">@color/CorAssentuada</item>
+        <item name="actionModeBackground">@color/CorAssentuada</item>
+        <item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+
+</resources>

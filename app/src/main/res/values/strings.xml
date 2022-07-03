@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">APR</string>
+    <string name="lembrete">Criar seu lembrete!</string>
+    <string name="titulo_de_atividades">Adicionar Lembrete</string>
+    <string name="titulo_lembrete">Editar Lembrete</string>
+    <string name="lembreteadd">Lembrete</string>
+    <string name="detalhes">Status</string>
+    <string name="data">Data</string>
+    <string name="hora">Hora</string>
+    <string name="repetir">Repeticão</string>
+    <string name="repetiroff">Desativado Repetir</string>
+    <string name="intervalo">Intervalo </string>
+    <string name="tipo_repetir">Tipo de Repetição</string>
+    <string name="botao_descartar">Descartar</string>
+    <string name="botao_salvar">Salvarr</string>
+    <string name="adicionar_Titulo_Anotacao">Adicionar</string>
+    <string name="editar_Titulo_Anotacao">Editar</string>
+    <string name="descartar_alteracao">Descartar suas alterações e saia da edição?</string>
+    <string name="descartar">Descartar</string>
+    <string name="continuar_editando">Continue Editando</string>
+    <string name="deletar_anotacao">Deseja Excluir?</string>
+    <string name="deletar">Remover</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="deletado_com_sucesso">Foi Deletado</string>
+    <string name="deletado_com_erro">Erro ao Deletar</string>
+    <string name="editado_salvo">Salvo</string>
+    <string name="editado_erro">Erro ao Salvar</string>
+    <string name="editado_atualizar">Atualizado</string>
+    <string name="editado_atualizarerro">Erro ao Atualizar</string>
+    <string name="título_lembrete">APR</string>
+</resources>

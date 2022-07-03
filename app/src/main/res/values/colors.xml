@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="CorPrimaria">#264653</color>
+    <color name="CorSecundaria">#26887C</color>
+    <color name="CorAssentuada">#E9C46A</color>
+    <color name="CorPressione">#F4A261</color>
+</resources>

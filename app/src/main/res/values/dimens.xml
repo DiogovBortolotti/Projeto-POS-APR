@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="botao_magina">16dp</dimen>
+    <dimen name="ati_margina">16dp</dimen>
+    <dimen name="preenchimento">20dp</dimen>
+</resources>
